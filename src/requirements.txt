@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+fastdtw
+scikit-learn
+tensorflow
+joblib
+argparse
+tqdm
