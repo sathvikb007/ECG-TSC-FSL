@@ -1,0 +1,17 @@
+__pycache__
+.ipynb_checkpoints
+
+*.tsv
+*.csv
+*.xlsx
+
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+*/*fine_tuned_weights.hdf5
+
+data/*
+!data/*.md
