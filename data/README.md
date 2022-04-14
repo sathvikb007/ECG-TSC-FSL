@@ -1,4 +1,4 @@
-# Similarity Learning based Few Shot Learning forECG Time Series Classification
+# Similarity Learning based Few Shot Learning for ECG Time Series Classification
 
 ## Data
 Add data here. Data downloadable from drive. Each folder 'dataset' should have two files 
